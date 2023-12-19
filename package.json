@@ -1,0 +1,13 @@
+{
+  "name": "pal-utils",
+  "version": "0.0.1",
+  "description": "Utilities by the Polkadot Assurance Legion",
+  "license": "Apache-2.0",
+  "main": "index.mjs",
+  "repository": "git@github.com:polkadot-assurance-legion/pal-utils.git",
+  "author": "Valery Gantchev <v@lery.nl>",
+  "dependencies": {
+    "@polkadot/api": "^10.7.2",
+    "@acala-network/chopsticks": "^0.9"
+  }
+}
