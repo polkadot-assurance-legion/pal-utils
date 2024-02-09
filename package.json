@@ -7,7 +7,12 @@
   "repository": "git@github.com:polkadot-assurance-legion/pal-utils.git",
   "author": "Valery Gantchev <v@lery.nl>",
   "dependencies": {
+    "@acala-network/chopsticks": "^0.9",
+    "@acala-network/chopsticks-utils": "^0.9",
     "@polkadot/api": "^10.7.2",
-    "@acala-network/chopsticks": "^0.9"
+    "@polkadot/types":"^10.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
   }
 }
